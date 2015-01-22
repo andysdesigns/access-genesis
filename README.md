@@ -1,10 +1,13 @@
-Leiden
+Access Genesis Child Theme
+
+This is my first attempt at creating an accessible Genesis Child Theme. I start with the Leiden Theme by Rian Rietveld and add a custom front-page.php add some functions that I use pretty often when building custom themes for clients.
+
 ======
-Contributors: rianrietveld
-Tags: Tags: accessibility-ready, accessible-ready, WCAG, Genesis, web standards, a11y
+Contributors: rianrietveld (Leiden Child Theme)
+Tags: Tags: accessibility-ready, accessible-ready, WCAG, Genesis, web standards, a11y, wpa11y
 Requires at least: 3.8
-Tested up to: 3.8.1
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,9 +15,11 @@ WCAG 2.0 AA accessible child theme created for the Genesis Framework.
 
 == Accessible Genesis Child theme ==
 
-Version 1.0.0
+Version 1.2.0
 
 == Description ==
+
+This Child Theme starts with the Leiden Theme created by Rian Rietveld.
 
 Do you need an accessible WordPress theme right out of the box?
 Take a look at Leiden, an accessible child theme for the Genesis Framework and the plugin Genesis Accessible.
