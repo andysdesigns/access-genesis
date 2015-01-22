@@ -1,7 +1,4 @@
 Access Genesis Child Theme
-
-This is my first attempt at creating an accessible Genesis Child Theme. I start with the Leiden Theme by Rian Rietveld and add a custom front-page.php add some functions that I use pretty often when building custom themes for clients.
-
 ======
 Contributors: rianrietveld (Leiden Child Theme)
 Tags: Tags: accessibility-ready, accessible-ready, WCAG, Genesis, web standards, a11y, wpa11y
